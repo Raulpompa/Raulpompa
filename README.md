@@ -7,7 +7,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/raulpompa/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/raulpompa/ticket-lifecycle)
 - <b>Microsoft Azure</b>
-  - [Creating a Storage Account within Resource Group on Azure](https://github.com/raulpompa/configure-ad)
+  - [Creating a Storage Account within Resource Group on Azure](https://github.com/raulpompa/storage-within-resource)
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/raulpompa/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/raulpompa/azure-network-protocols)
 
