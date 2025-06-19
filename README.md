@@ -7,8 +7,8 @@
   - [osTicket: Post-Installation Configuration](https://github.com/raulpompa/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/raulpompa/ticket-lifecycle)
 - <b>Microsoft Azure Compute and Networking</b>
- <!--- - [Configuring On-premises Active Directory within Azure VMs](https://github.com/raulpompa/configure-ad) --->
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/raulpompa/azure-network-protocols)
+    <!--- - [Configuring On-premises Active Directory within Azure VMs](https://github.com/raulpompa/configure-ad) --->
 - <b>Active Directory</b>
   - [Active Directory: Preparing Infrastructure in Azure](https://github.com/raulpompa/preparing-ad)
   - [Active Directory: Deploying Active Directory in Azure](https://github.com/raulpompa/deploying-ad)
